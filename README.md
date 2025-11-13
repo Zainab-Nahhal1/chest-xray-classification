@@ -67,6 +67,3 @@ python main.py --mode evaluate --data_dir data/chest_xray
 - Consider using a pretrained backbone (e.g., MobileNetV2) for higher accuracy and faster convergence.
 - The included tests are simple smoke tests; expand them before deploying.
 
----
-
-If you want, I can add a Colab notebook version, or include an example saved model checkpoint in the archive.
